@@ -49,7 +49,6 @@ img {
 }
 *,*::before, *::after  {
     box-sizing: border-box;
-    outline: 1px solid #000000;
 }
 
 .container {
@@ -88,6 +87,10 @@ img {
 }
 .footer {
 	height: 120px;
+}
+.footer-content {
+	font-size: 16px;
+	line-height: 1.5;
 }
 
 
